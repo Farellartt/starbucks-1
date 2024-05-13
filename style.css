@@ -186,10 +186,6 @@ header ul li a:hover::after {
   clip-path: circle(600px at right 800px);
 }
 
-/* Menu Section */
-.about .row 
-
-
 /* Media query */
 @media (max-width: 991px) {
   header {
